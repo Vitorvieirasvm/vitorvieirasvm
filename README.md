@@ -3,12 +3,18 @@
 🎓 sou estudante de sistemas de informação
 
 🏢 Desenvolvedor Full Stack
-guialvesped/README.md​
-👋 ola sou  vitor vieira 
-Desenvolvedor Full Stack Júnior
- desenvolvedor Full Stack Júnior apaixonado por criar aplicações escaláveis ​​e eficientes. Atualmente trabalho como desenvolvedor Full Stack.
+​
+👋 ola sou  vitor vieira
 
-Meu foco é escrever código limpo e de fácil manutenção, além de aprimorar continuamente meu conhecimento em arquitetura de backend, desempenho de frontend e melhores práticas de engenharia de software.
+Desenvolvedor Full Stack Júnior
+ desenvolvedor Full Stack Júnior apaixonado por criar aplicações escaláveis ​​e eficientes. Atualmente trabalho comoAssistente de Projetos Digitais
+
+
+Apoio no gerenciamento de projetos de TI e transformação digital, incluindo levantamento de requisitos e alinhamento entre equipes técnicas e áreas de negócio.
+
+Mapeamento e otimização de processos internos, com foco em automação, eficiência operacional e melhoria contínua.
+
+Análise e tratamento de dados utilizando SQL e Python para identificação de gargalos e suporte à tomada de decisões.desempenho de frontend e melhores práticas de engenharia de software.
 
 🚀 Sobre mim
 💼 Trabalhando como Desenvolvedor Full Stack
