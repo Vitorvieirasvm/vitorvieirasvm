@@ -6,8 +6,8 @@
 ​
 👋 ola sou  vitor vieira
 
-Desenvolvedor Full Stack Júnior
- desenvolvedor Full Stack Júnior apaixonado por criar aplicações escaláveis ​​e eficientes. Atualmente trabalho comoAssistente de Projetos Digitais
+assistente de projeto 
+ ja atuei como desenvolvedor Full Stack Júnior apaixonado por criar aplicações escaláveis ​​e eficientes. Atualmente trabalho como Assistente de Projetos Digitais
 
 
 Apoio no gerenciamento de projetos de TI e transformação digital, incluindo levantamento de requisitos e alinhamento entre equipes técnicas e áreas de negócio.
@@ -17,7 +17,7 @@ Mapeamento e otimização de processos internos, com foco em automação, efici�
 Análise e tratamento de dados utilizando SQL e Python para identificação de gargalos e suporte à tomada de decisões.desempenho de frontend e melhores práticas de engenharia de software.
 
 🚀 Sobre mim
-💼 Trabalhando como Desenvolvedor Full Stack
+💼 Trabalhando comoAssistente de projeto
 🎓 Estudante de sistemas de informação DESDE 2023
 🧠 Grande interesse em arquitetura de backend, APIs e sistemas escaláveis.
 📱 Experiência em desenvolvimento de aplicativos web e mobile
